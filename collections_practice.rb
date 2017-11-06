@@ -67,7 +67,7 @@ def merge_data(arr1, arr2)
       end
     end
   end
-    
+
   merged_data
 
 end
